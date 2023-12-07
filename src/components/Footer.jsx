@@ -46,7 +46,7 @@ const Footer = () => {
 
         <Row className='mt-5'>
             <Col md="6">
-                <h5>2023 © All rights reserved | <strong>DIPAK KUMAL</strong></h5>
+                <h5>2023 © All rights reserved | <strong>Laxmi Timilsina</strong></h5>
             </Col>
             <Col md="6">
                 <ul className='icon'>
